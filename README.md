@@ -1,10 +1,14 @@
 # project_midas
 
-A new Flutter project.
+An IOS Calculator clone create using flutter, based on this youtube video.
+- [Youtube Video: Easy Calculator App Tutorial | Flutter | Under 15 Min](https://www.youtube.com/watch?v=cUxyqztdwwM&ab_channel=TheFlutterLab)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my first flutter project, i create this app for learning flutter
+Ver 1.0 Beta
+- the original source code is mess, i have spurce the code with current version - Flutter 3.0.1
+- The basic of calculator function has not yet add it
 
 A few resources to get you started if this is your first Flutter project:
 
